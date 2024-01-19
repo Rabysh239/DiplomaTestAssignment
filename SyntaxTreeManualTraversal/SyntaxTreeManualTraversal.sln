@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSyntaxTree", "HelloSyntaxTree\HelloSyntaxTree.csproj", "{14DE8206-F8C2-41AE-BEF1-DEDFE717B141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxWalker", "SyntaxWalker\SyntaxWalker.csproj", "{4C542BAD-2949-4B7D-8F50-C813C05F19CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14DE8206-F8C2-41AE-BEF1-DEDFE717B141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DE8206-F8C2-41AE-BEF1-DEDFE717B141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DE8206-F8C2-41AE-BEF1-DEDFE717B141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DE8206-F8C2-41AE-BEF1-DEDFE717B141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C542BAD-2949-4B7D-8F50-C813C05F19CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C542BAD-2949-4B7D-8F50-C813C05F19CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C542BAD-2949-4B7D-8F50-C813C05F19CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C542BAD-2949-4B7D-8F50-C813C05F19CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E840A0D-10AC-45D0-B546-32EC74E4EBBB}
+	EndGlobalSection
+EndGlobal
